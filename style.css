@@ -1,0 +1,205 @@
+.container {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 60px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 11px;
+
+
+}
+
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.box1 {
+    color: rgb(10, 10, 10);
+    padding-left: 10px;
+    padding-bottom: 70%;
+    padding-right: 1%;
+    margin-top: 2%;
+}
+
+.box2 {
+    padding-right: 30%;
+    margin-top: 1%;
+}
+
+.box3 {
+    margin-top: -40px;
+    margin-left: 70px;
+
+}
+
+.search-box {
+    justify-content: center;
+    padding-left: 5px;
+}
+
+.big {
+    padding-right: 360px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    margin-left: -180px;
+    text-align: right"100px";
+    text-align: start;
+    text-align: center;
+    border-width: 3px;
+    border-color: white;
+    box-sizing: border-box;
+    background-color: 1px solid white
+}
+
+.button {
+    background-color: aliceblue;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: 6px;
+    margin-top: 19px;
+    border-radius: 12%;
+    border-color: bisque;
+
+
+
+}
+
+.icon {
+    margin-right: 50px;
+    margin-top: 20px;
+
+    padding-left: 130px;
+
+}
+
+.icon2 {
+    padding-right: 15px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+
+}
+
+.icon3 {
+    margin-top: 20px;
+    padding-right: 3px;
+    padding-bottom: 4px;
+    margin-bottom: 10px;
+    padding-left: 4%;
+
+}
+
+.text {
+
+    font-weight: 500;
+    background-color: blue;
+    color: white;
+    width: 25px;
+    height: 18px;
+    margin-top: 15px;
+    margin-left: 28px;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 20px;
+    margin-top: 17px;
+
+}
+
+.container1 {
+    padding-top: 5px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+
+}
+
+.vishwa1 {
+    padding-top: 10px;
+    align-items: flex-start;
+    padding-left: 25px;
+}
+
+.vishwa2 {
+    display: flex;
+    margin-right: 100px;
+    justify-content: space-between;
+}
+
+.up {
+    padding-left: 50px;
+
+}
+
+.auto {
+    padding-left: 140px;
+
+}
+
+.lion {
+    margin-top: 6px;
+}
+
+.viedo1 {
+    display: flex;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.viedo1 p {
+    text-align: center;
+    font-size: 13px;
+    padding: 10px;
+}
+
+h5 {
+    color: aquamarine;
+}
+
+.icon6 {
+    justify-content: end;
+    /* padding-left: 600px; */
+    margin-top: -42px;
+
+    display: flex;
+
+}
+
+.ppp {
+    margin-top: 55px;
+    margin-right: 530px;
+    color: rgb(19, 18, 18);
+
+}
+
+.log {
+    padding-left: 250px;
+    margin-top: -20px;
+    color: rgb(8, 8, 8);
+}
+
+.aaa {
+    margin-right: 30px;
+    margin-top: 55px;
+    color: rgb(22, 21, 21);
+}
+
+.bbb {
+    margin-right: 30px;
+    margin-top: 55px;
+    color: rgb(22, 21, 21);
+}
+
+.ccc {
+    margin-right: 30px;
+    margin-top: 55px;
+    color: rgb(7, 7, 7);
+}
+
+.ddd {
+    margin-right: 30px;
+    margin-top: 55px;
+    color: rgb(12, 11, 11);
+}
